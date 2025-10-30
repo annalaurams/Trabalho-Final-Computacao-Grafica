@@ -1,5 +1,11 @@
 # Interpretação de Desenhos Infantis com Técnicas de Computação Gráfica: Uma Abordagem sobre o Universo de Bob Esponja  
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+</div>
+
 ## 🎯 Objetivo do Projeto  
 Este projeto tem como objetivo construir o desenho “Bob Esponja Calça Quadrada” utilizando técnicas de Computação Gráfica, recriando de forma tridimensional e interativa o cenário da Fenda do Biquíni.  
 
@@ -16,13 +22,6 @@ O documento completo (`.tex`/PDF) está incluído no repositório e contém uma 
 - Construção do **barco** e das **águas-vivas animadas** com movimento independente.  
 - Implementação de **movimento interativo** das águas-vivas via teclado no Unity (WASD e IJKL).  
  
-## 💻 Tecnologias
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
-</div>
 
 ## 🖼️ Resultados  
 
